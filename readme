@@ -5,15 +5,6 @@ The programe is a mini Terminal.
 It's mean that the program support Basic function that the Terminal support.
 Also support pipe ("|"), and redirection  (">", ">>", 2>, <,) and the command "cat" (extract what in the file to the screen).
 
-To build (compile):
-press ctrl +shift+b
-
-To run the program: 
-press ctrl+f5
-
-Files in program: 
-ex2.c, ex2(the compiled program), makefile, file with: launch.json and tasks.json
-
 The input:
 The user can enter basic commends of the Terminal such as "ls", "ls -l", "echo" and more.
 Also the programe support pipes and redirections such as "ls -l | wc", ls-l | wc > file".
