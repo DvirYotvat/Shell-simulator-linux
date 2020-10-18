@@ -1,5 +1,5 @@
 # Shell-simulator-linux
-Shell simulator for linux in C++
+Shell simulator for linux in C
 
 
 <h2> Explanation:💡</h2>
