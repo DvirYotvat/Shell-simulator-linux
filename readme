@@ -1,0 +1,34 @@
+
+
+Explanation:
+The programe is a mini Terminal.
+It's mean that the program support Basic function that the Terminal support.
+Also support pipe ("|"), and redirection  (">", ">>", 2>, <,) and the command "cat" (extract what in the file to the screen).
+
+To build (compile):
+press ctrl +shift+b
+
+To run the program: 
+press ctrl+f5
+
+Files in program: 
+ex2.c, ex2(the compiled program), makefile, file with: launch.json and tasks.json
+
+The input:
+The user can enter basic commends of the Terminal such as "ls", "ls -l", "echo" and more.
+Also the programe support pipes and redirections such as "ls -l | wc", ls-l | wc > file".
+For end the program you need to enter the commend "done"
+
+output:
+the program output depented on what the commend you enter.
+
+for example:
+if the commend is "ls" the output is all the files names you have int the folder.
+if the commend is "ls -l" the output is all the files and the permissions.
+if the commend is "echo Hello" the output will be Hello.
+if the commend is "done" the output will be a summary of how many commends you enter, how many chars in total you enter and average of chars per commend.
+if the commend is "ls -l | wc" the output will be how much lines, words and chars you have in the file (ls -l return to wc the output), it's mean that the input of wc is the output of ls -l.
+if the commend is "ls -l | wc -l > file" the output of the command ls -l | wc -l get into a file named file.
+
+
+
