@@ -17,8 +17,8 @@ Also support pipe ("|"), and redirection  (">", ">>", 2>, <,) and the command "c
 
 <p align="center">
 
-    <img align='middle' src="http://up419.siz.co.il/up3/idkrhztjozzm.jpg" width="110">
+    <img src="http://up419.siz.co.il/up3/idkrhztjozzm.jpg" width="110">
   
-    <img align='middle' src="http://up419.siz.co.il/up1/oeatqdym0wj1.jpg" width="110">
+    <img src="http://up419.siz.co.il/up1/oeatqdym0wj1.jpg" width="110">
 
 </p>
